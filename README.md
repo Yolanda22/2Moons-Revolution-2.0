@@ -1,7 +1,7 @@
 # 2Moons-Dark-space
 2Moons/Dark-space
 
-Upload the files to your web browser.<br><br>
+Upload the files to your web browser.<br>
 Import the sql file with phpmyadmin<br><br>
 
 Do not forget to edit<br><br>
