@@ -15,5 +15,5 @@ Do not forget to edit<br><br>
 -xsolla.php (if you use xsolla, use this file as notification file)<br><br>
 
 Login with<br>
--USERNAME: ADMIN<br>
--PASSWORD: ADMIN<br>
+-USERNAME: admin@admin.com<br>
+-PASSWORD: ADMIN001<br>
