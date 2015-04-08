@@ -17,3 +17,5 @@ Do not forget to edit<br><br>
 Login with<br>
 -USERNAME: admin@admin.com<br>
 -PASSWORD: ADMIN001<br>
+
+This pack is for personal use and may not be sold !
