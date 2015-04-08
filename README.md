@@ -1,5 +1,5 @@
-# 2Moons-Revolution-2.0 
-2Moons-Revolution-2.0 
+# 2Moons-Revolution-2.0 BY THISISHOWWEDOIT
+2Moons-Revolution-2.0 BY THISISHOWWEDOIT
 
 Upload the files to your web browser.<br>
 Import the sql file with phpmyadmin<br><br>
