@@ -1,5 +1,5 @@
-# 2Moons-Dark-space
-2Moons/Dark-space
+# 2Moons-Revolution-2.0 
+2Moons-Revolution-2.0 
 
 Upload the files to your web browser.<br>
 Import the sql file with phpmyadmin<br><br>
