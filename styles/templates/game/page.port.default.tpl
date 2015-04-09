@@ -27,7 +27,7 @@
         
         <tr>
             <td><a href="game.php?page=dmhangar&mode={if $universun == 1}defense{else}defensebis{/if}"><img style="max-height:none !important;" src="./styles/images/port/deff.png"><br>{$LNG.alm_defense}</a></td>
-            <td><a href="game.php?page=dmhangar&mode=={if $universun == 1}defense{else}defensebis{/if}">{$LNG.port_defense_text}</a></td>
+            <td><a href="game.php?page=dmhangar&mode={if $universun == 1}defense{else}defensebis{/if}">{$LNG.port_defense_text}</a></td>
         </tr>
 		 {/if}
         <tr>
