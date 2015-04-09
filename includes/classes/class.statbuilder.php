@@ -552,7 +552,7 @@ class statbuilder
 				(isset($AllianceData['old_total_rank']) ? $AllianceData['old_total_rank'] : 0).", ".
 				(isset($AllyPoints[$AllianceData['id']]['total']['points']) ? min($AllyPoints[$AllianceData['id']]['total']['points'], 1E50) : 0).", ".
 				(isset($AllyPoints[$AllianceData['id']]['total']['count']) ? $AllyPoints[$AllianceData['id']]['total']['count'] : 0).", ".
-				(isset($AllyPoints['old_tech_rank']) ? $AllyPoints['old_tech_rank'] : 0).", ".
+				(isset($AllyPoints['old_ach_rank']) ? $AllyPoints['old_ach_rank'] : 0).", ".
 				(isset($AllyPoints[$AllianceData['id']]['achie']['points']) ? min($AllyPoints[$AllianceData['id']]['achie']['points'], 1E50) : 0).", ".
 				(isset($AllyPoints[$AllianceData['id']]['achie']['count']) ? $AllyPoints[$AllianceData['id']]['achie']['count'] : 0)."), ";
 			}
