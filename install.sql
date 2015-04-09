@@ -1018,16 +1018,6 @@ CREATE TABLE IF NOT EXISTS `uni1_news` (
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=5 ;
 
---
--- Contenu de la table `uni1_news`
---
-
-INSERT INTO `uni1_news` (`id`, `user`, `date`, `title`, `text`, `catID`) VALUES
-(1, 'Thisishowwedoit', 1424734846, 'Dark-Space: Empire ! [EN/DE/FR] [01/03/2015]', 'Dark-Space: Empire ! is glad to announce you the official opening of our shiny new universe. The universe will start on 1st march 2015 at 14h30.<br>\nWhat can you expect from us ?<br>\n-A new universe with tall of new functions\n-A bugless universe\n-New events such as fortress, asteroid and many more\n-New fleets, buildings, defense and research\n-Responsive design thats auto-adapt on the size of your screen\n-New alliance fractions\nand many many more ...\n\nKind Regards,\nDark-Space Development Team.\n\nWebsite: www.dark-space.org\nFollow us at Facebook: <a href="https://www.facebook.com/pages/Dark-Space-Empire/1490309864518434?ref=hl">Dark-Space: Empire!</a>', 4),
-(2, 'Thisishowwedoit', 1425841236, 'Moon Contest [END]', 'The final ranking of our moons contest is posted on our forum, use you ingame details to use our forum\n\nLe classement final de notre premier concour est poster sur le forum, utiliser vos information de jeu pour vous connecter au forum\n\nDie final Gliederung unserer ersten Wahlen nach dem Forum, Verwenden Sie Ihre Gaming-Informationen, die dem Forum zu verbinden', 4),
-(3, 'Thisishowwedoit', 1426867345, 'New Accounts [dark-space]', 'Some new registered account have been deleted from game due to a start bug with infinite message of achievements, this is now fixed and you may register again with us.<br>\n<br>\nEinige neue registrierten Account haben vom Spiel wegen eines Start Fehler mit unendlichen Botschaft der Leistungen gestrichen, ist dies nun fest, und Sie konnen wieder bei uns registrieren.<br>\n<br>\nWebsite:www.dark-space.org', 4),
-(4, 'Thisishowwedoit', 1428332627, 'Dark-Space', 'The game stay playable as its easter day and alot of players have free day,<br>\nwe locked all hostile missions until 20.00<br>\nSome page are unavaible and will be back in the evening<br>\nHave a nice game', 4);
-
 -- --------------------------------------------------------
 
 --
@@ -1094,14 +1084,6 @@ CREATE TABLE IF NOT EXISTS `uni1_planetauction` (
   PRIMARY KEY (`auctionID`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=9 ;
 
---
--- Contenu de la table `uni1_planetauction`
---
-
-INSERT INTO `uni1_planetauction` (`auctionID`, `planetID`, `price`, `type`, `time`, `buyerID`, `selledID`, `universe`) VALUES
-(6, 32798, '9691', 2, 1428530838, 34, 429, 1),
-(7, 33818, '5000', 2, 1428673003, 395, 395, 1),
-(8, 33819, '6500', 2, 1428673078, 395, 395, 1);
 
 -- --------------------------------------------------------
 
