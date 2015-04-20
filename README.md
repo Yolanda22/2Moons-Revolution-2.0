@@ -21,3 +21,6 @@ IMPORTANT:
 If you encounter an error while updating manualy stats before you start your universe, use the reset option in admin panel and make a full reset of the universe, this will fix the problem
 
 This pack is for personal use and may not be sold !
+
+
+ADMIN PANEL IS UNFINISHED, BUT IT WILL BE AS I NEED IT MYSELF
