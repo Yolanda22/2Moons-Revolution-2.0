@@ -22,5 +22,11 @@ If you encounter an error while updating manualy stats before you start your uni
 
 This pack is for personal use and may not be sold !
 
+To make this pack running you need a forum. the basic code is used with this forum that you also need to install in the same database as your game with forum_ as prefix
+You can download it using iinsick as username and 2moons001 as password
+
+Before asking a question, read the small readme. you can find in the pack
+http://invision-virus.com/forum/index.php/files/file/541-ipboardv347-illuson-nulled
+
 
 ADMIN PANEL IS UNFINISHED, BUT IT WILL BE AS I NEED IT MYSELF
