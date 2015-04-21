@@ -319,7 +319,7 @@ setInterval(function() { AJAX() }, 6000)
 			
 			
                 <div class="clear"></div>
-            
+		</div>            
               
     <div class="build_band" style="padding-right:0;">
        	<a class="bd_dm_buy" href="game.php?page=dmbuild">Buy builds with dm</a>
