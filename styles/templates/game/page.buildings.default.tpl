@@ -319,6 +319,7 @@ setInterval(function() { AJAX() }, 6000)
 			
 			
                 <div class="clear"></div>
+		</div>
             
               
     <div class="build_band" style="padding-right:0;">
